@@ -2,6 +2,12 @@
 
 Future City is an innovative project aimed at creating a sustainable and technologically advanced urban environment. This project explores various aspects of urban planning, smart technologies, and community engagement to envision a better future for cities.
 
+Video 1 
+https://drive.google.com/file/d/1jfJbRiG9Qg77W09JgXChpElLstKkFBFc/view?usp=drive_link
+
+Video 2 
+DDos Mitigation : https://drive.google.com/file/d/1WdJZ8_TXMyIW1VCQhhJ2wWda7wzyoMmk/view?usp=sharing
+
 ## Features
 
 
