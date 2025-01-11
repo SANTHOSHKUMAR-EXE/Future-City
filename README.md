@@ -7,7 +7,7 @@ Future City is an innovative project aimed at creating a sustainable and technol
 
 - Carbon calculator
 - Health ingredients analyzer
-- Women safety SOS
+- Women and Child safety SOS
 - Citizen complaint system
 
 ## Installation
