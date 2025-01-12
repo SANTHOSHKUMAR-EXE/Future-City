@@ -1,6 +1,7 @@
 # Future City 🌆  
 
 Future City is an AI-powered web application designed to revolutionize urban living by addressing critical challenges in **environmental sustainability, public health, citizen engagement, and safety**. It integrates **advanced AI, real-time data analysis, and cybersecurity measures** to create smarter and safer cities.  
+![Future City - Home Page](https://i.ibb.co/qRRYGsV/Screenshot-2025-01-11-121330.png)
 
 ## Features 🚀  
 
