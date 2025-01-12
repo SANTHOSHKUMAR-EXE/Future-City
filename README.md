@@ -4,7 +4,7 @@ Future City is an AI-powered web application designed to revolutionize urban liv
 
 ## Features 🚀  
 
-###1️⃣ Carbon Footprint Detection 🌍  
+1️⃣ Carbon Footprint Detection 🌍  
 - Calculates carbon emissions generated during travel between a source and destination.  
 - Promotes eco-friendly travel options like public transport and walking.  
 - Provides actionable insights to reduce urban pollution.  
@@ -40,13 +40,5 @@ Future City is an AI-powered web application designed to revolutionize urban liv
 - **Database:** MongoDB / Firebase  
 - **AI & OCR:** TensorFlow, OpenCV  
 - **Security:** DDoS Protection, Encryption  
-
-## Installation 📥  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/future-city.git
- cd future-city
- npm install
- npm start
 
 ## Let me know if you need any further changes! 
